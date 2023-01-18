@@ -1,1 +1,1 @@
-# xray-angle
+# Calculate angles on images using Python
